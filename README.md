@@ -4,7 +4,7 @@ A recreation of the Mintlify landing page built with HTML and CSS only, followin
 
 ## Live Demo
 
-🔗 **[live demo](#https://mintlify-clone-mu.vercel.app/)** 
+🔗 **[https://mintlify-clone-mu.vercel.app](#https://mintlify-clone-mu.vercel.app)** 
 
 ---
 
